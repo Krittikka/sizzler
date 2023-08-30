@@ -1,1 +1,1 @@
-# Sizzlers - project under construction
+# Sizzlers - project under development
